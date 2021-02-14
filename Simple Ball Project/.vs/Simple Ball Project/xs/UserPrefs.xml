@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{53EE0466-C67D-EFDF-4055-200C168B5025}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ColorController.cs">
+    <Files>
+      <File FileName="Assets/PlayerBallController.cs" Line="24" Column="1" />
+      <File FileName="Assets/ColorController.cs" Line="39" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Simple Ball Project" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cd61afb2-37de-4d4e-bfff-e639e6c33dc6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
